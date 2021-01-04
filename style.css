@@ -1,0 +1,66 @@
+html {
+    font-family: 'Poppins',
+        sans-serif;
+    background: #ecf0f3
+}
+
+.container {
+    margin: auto;
+    margin-top: 50px;
+    width: 350px;
+    height: 500px;
+    padding: 40px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background: #ecf0f3;
+
+    box-shadow: 7px 7px 10px #cbced1,
+        -7px -7px 10px white;
+}
+
+.brand-logo {
+    height: 100px;
+    width: 100px;
+    background: url("https://img.icons8.com/color/100/000000/twitter--v2.png");
+    margin: auto;
+    border-radius: 50%;
+    box-sizing: border-box;
+
+    box-shadow: 14px 14px 20px #cbced1,
+        -14px -14px 20px white;
+}
+
+h2 {
+    margin-top: 5px;
+    margin-left: 70px;
+
+    font-size: xx-large;
+    font-weight: bold;
+    color: #03a9f4;
+}
+
+.email {
+    /* margin-left: 20px; */
+    margin-top: 30px;
+}
+
+h4 {
+    margin-left: 10px;
+    margin-bottom: 5px;
+
+    color: gray;
+}
+
+
+input {
+    background: #ecf0f3;
+    padding: 10px;
+    padding-left: 20px;
+    height: 50px;
+    width: 85%;
+    font-size: 14px;
+    border-radius: 50px;
+    border-color: transparent;
+    box-shadow: inset 6px 6px 6px #cbced1,
+        inset -6px -6px 6px white;
+}
